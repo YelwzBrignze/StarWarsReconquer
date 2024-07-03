@@ -1,0 +1,1 @@
+All icons used in this mod are Creative Commons or Public Domain. Also, codes from other Unciv mods were used to make this mod. The mods used were China-plus by Mechworks-all-day and Bamboolord, Hack-land by kingkarna1, Brave-New-World by ravignir, Difficulty_Sandbox by paontv and Maid-Empire by ptliem007. Also, the Unciv code on github and mod-example were used.
