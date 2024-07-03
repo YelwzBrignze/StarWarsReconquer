@@ -10,6 +10,7 @@
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"attackSound": "elechit", 
 	},	
 	{
 		"name": "Imperial Droids",
@@ -22,6 +23,7 @@
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"attackSound": "laserhit", 
 	},
 	{
 		"name": "jedi",
@@ -34,6 +36,7 @@
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"attackSound": "Ishit", 
 	},
 	{
 		"name": "Sith",
@@ -46,6 +49,7 @@
 		"cost": 10,
 		"uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
 		"promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"],
+		"attackSound": "Ishit", 
 	},
 { "name": "Bombardeiros", 
   "uniqueTo": "Republica Imperial", 
@@ -57,6 +61,7 @@
   "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
   "cost": 10,
   "promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"]
+  "attackSound": "heavyfire", 
 },
 { "name": "Clones", 
   "uniqueTo": "Republica Imperial", 
@@ -67,6 +72,7 @@
   "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
   "cost": 10,
   "promotions": ["Logistics","Accuracy I","Accuracy II","Accuracy III","1st Hack Land Ability","2nd Hack Land Ability","Hax For Everyone! Ability"]
+  "attackSound": "blasterhit", 
 },
 { 
   "name": "Super Cheat Worker", 
@@ -91,7 +97,7 @@
   "movement": 5,
   "strength": 400, 
   "rangedStrength": 100,
-  "attackSound": "arrow", 
+  "attackSound": "fleethit", 
   "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
   "cost": 10 
 },
@@ -100,7 +106,7 @@
   "unitType": "Ranged Gunpowder", 
   "movement": 5,
   "strength": 400,  
-  "attackSound": "arrow", 
+  "attackSound": "turrethit", 
   "uniques": ["Never appears as a Barbarian unit", "Can move after attacking", "Can move immediately once bought", "Uncapturable", "[2] additional attacks per turn", "[5] Sight", "[5] Range", "May withdraw before melee ([50]%)", "Can move after attacking", "Can see over obstacles", "Invisible to non-adjacent units", "Can see invisible [All] units", "All tiles cost 1 movement", "May travel on Water tiles without embarking", "No movement cost to pillage", "Eliminates combat penalty for attacking across a coast", "May attack when embarked", "Eliminates combat penalty for attacking over a river", "Ranged attacks may be performed over obstacles" ], 
   "cost": 10 
 }
